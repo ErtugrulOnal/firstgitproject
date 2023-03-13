@@ -1,0 +1,9 @@
+This is my first Github class
+
+echo "# firstgitproject" >> README.md
+git init --> create a git folder in our computer
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/ErtugrulOnal/firstgitproject.git
+git push -u origin main
