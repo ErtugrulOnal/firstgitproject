@@ -27,3 +27,4 @@ Then put Notes3.txt path in .gitignore file
 Then commit
 Then push
 Then Notes3.txt should not be pushed in Github
+NOTE: MAKE SURE TO SAVE AFTER EACH CHANGE control + s to save changes
