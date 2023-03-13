@@ -28,3 +28,15 @@ Then commit
 Then push
 Then Notes3.txt should not be pushed in Github
 NOTE: MAKE SURE TO SAVE AFTER EACH CHANGE control + s to save changes
+===================================
+GIT PULL
+: Please, commit your changes before merging.
+git add .
+git commit -m "message"
+git pull -> GOT ERROR Saying pull before push
+git pull
+git add .
+git commit -m "message"
+git push --> NO ERROR
+NOTE: GIT PULL before GIT push
+
