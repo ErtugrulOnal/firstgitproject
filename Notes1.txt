@@ -13,3 +13,17 @@ This is my second commit
 git add .
 git commit -m "updating code" --> we create a new version
 git push
+
+===========
+GIT IGNORE
+.gitignore should be created at the project level.
+It is used ti ignore/hide the files
+The files in .gitignore will not be added and committed and pushed
+----------------------------------------
+Example:
+Create 3 files; Notes2.txt, Notes3.txt, Notes4.txt
+And create .gitignore file in the project level
+Then put Notes3.txt path in .gitignore file
+Then commit
+Then push
+Then Notes3.txt should not be pushed in Github
