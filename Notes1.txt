@@ -39,4 +39,9 @@ git add .
 git commit -m "message"
 git push --> NO ERROR
 NOTE: GIT PULL before GIT push
-
+=====================
+GIT CONFLICT:
+Occurs when same class and line have different code
+When we merge these codes then we conflict message
+SOLUTION:
+Manually fix and create a new commit and push the clean code
