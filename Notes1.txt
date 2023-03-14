@@ -45,3 +45,17 @@ Occurs when same class and line have different code
 When we merge these codes then we conflict message
 SOLUTION:
 Manually fix and create a new commit and push the clean code
+
+===================================
+SIDE BRANCH BREATION AND MERGE WITH MASTER BRANCH
+Create a clas "My seventh Commit"
+Create a new commit and push
+git add.
+git commit -m "its my seventh commit but today 2nd"
+git push
+Then codes will be in remote ahmet branch
+Pull request will be in remote ahmet branch
+Then in git hub expert ur we will do
+Pull Request (PR) (We or Expert)
+Then Code Review (Expert)
+Then Code Merge (Expert)
